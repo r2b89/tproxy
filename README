@@ -1,0 +1,10 @@
+# Summary
+This is code of simple telegram bot. It was created as a proof of idea that telegram bot can be used as some sort of
+proxy for reaching resources and get content from there. In current version bot will return the screenshot of the page
+that user requested from the bot.
+
+# How to start
+1) Register your telegram bot
+2) Create .env file near the script
+3) Add the next content to this file: BOT_TOKEN = "YOUR_BOT_TOKEN"
+
